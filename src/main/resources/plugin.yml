@@ -1,0 +1,11 @@
+name: WorkshopPlugin
+version: 1.0
+author: ChatDo
+main: re.chatdo.workshopplugin.WorkshopPlugin
+
+
+commands:
+  epitech:
+    description: Vous donne -42 de la part de Marvin =D
+    usage: /epitech
+    permission: None
