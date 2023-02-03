@@ -43,6 +43,4 @@ public class Events implements Listener {
         }
     }
 
-    @EventHandler
-
 }

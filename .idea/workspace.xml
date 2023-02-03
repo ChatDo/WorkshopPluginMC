@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61bf9d8e-48ad-47d4-9635-4f34ad4a5a04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/re/chatdo/workshopplugin/EpitechCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/re/chatdo/workshopplugin/Events.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/re/chatdo/workshopplugin/WorkshopPlugin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/re/chatdo/workshopplugin/Events.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/re/chatdo/workshopplugin/Events.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675420033892</updated>
       <workItem from="1675420035616" duration="4717000" />
-      <workItem from="1675425230552" duration="2353000" />
+      <workItem from="1675425230552" duration="2814000" />
     </task>
     <servers />
   </component>
